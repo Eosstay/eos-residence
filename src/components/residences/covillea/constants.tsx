@@ -43,7 +43,7 @@ import { FaUser, FaBed } from "react-icons/fa";
 import { BsStars } from "react-icons/bs";
 
 export const Introduction = {
-  title: "Deluxe Accommodation Type",
+  title: "Premium Accommodation Type",
   subtitle: "Located at Covillea @ Bukit Jalil",
   description:
     "Experience premium student living with our DELUXE CONDO unit, with enhanced security and modern facilities. Each unit is fully furnished with essential amenities and modern conveniences.",
@@ -58,7 +58,7 @@ export const Introduction = {
     },
     {
       icon: <MdNearMe className="inline text-gray-400" />,
-      text: "Within 5 minutes walking distance to IMU",
+      text: "Within 4 minutes walking distance to IMU",
     },
     {
       icon: <FaUser />,
@@ -95,7 +95,7 @@ export const roomTypes = [
     highlight: [
       "Shared Bathroom",
       "Amenities: Table, Mattress, AC, WIFI, Cabinet",
-      "Monthly Rental: RM 1,700",
+      "Monthly Rental: RM 1,400",
     ],
     image: medium2,
     images: [
@@ -112,7 +112,7 @@ export const roomTypes = [
     highlight: [
       "Shared Bathroom",
       "Amenities: Table, Mattress, AC, WIFI, Cabinet",
-      "Monthly Rental: RM 1,400",
+      "Monthly Rental: RM 1,700",
     ],
     image: mediumL,
     images: [
