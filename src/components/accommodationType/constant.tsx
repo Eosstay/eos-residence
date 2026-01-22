@@ -7,7 +7,7 @@ import covillea from "@/assets/covillea/sharingArea/sofa.jpeg";
 
 export const AccommodationTypes = [
   {
-    type: "Deluxe Accommodation Type",
+    type: "Premium Accommodation Type",
     location: "Located at Covillea @ Bukit Jalil",
     description: [
       {
@@ -20,7 +20,7 @@ export const AccommodationTypes = [
       },
       {
         icon: <MdNearMe className="inline text-gray-400" />,
-        text: "Within 5 minutes walking distance to IMU"
+        text: "Within 4 minutes walking distance to IMU"
       },
       {
         icon: <FaUser />,
@@ -42,7 +42,7 @@ export const AccommodationTypes = [
 
   },
   {
-    type: "Superior Accommodation Type",
+    type: "Standard Accommodation Type",
     location: "Located at Vista Komanwel B",
     description: [
       {
@@ -55,7 +55,7 @@ export const AccommodationTypes = [
       },
       {
         icon: <MdNearMe className="inline text-gray-400" />,
-        text: "Within 5 minutes walking distance to IMU"
+        text: "Within 1 minute walking distance to IMU"
       },
       {
         icon: <FaUser />,
