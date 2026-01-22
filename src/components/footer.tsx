@@ -18,8 +18,8 @@ export default function footer() {
             </div>
             <div className="flex items-center gap-3 text-sm text-gray-900">
               <FaEnvelope className="text-blue-500" />
-              <a href="mailto:eosstay@gmail.com" className="hover:underline">
-                eosstay@gmail.com
+              <a href="mailto:inquiry@eoshostel.com" className="hover:underline">
+                inquiry@eoshostel.com
               </a>
             </div>
           </div>
