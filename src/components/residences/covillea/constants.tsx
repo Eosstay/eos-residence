@@ -46,7 +46,7 @@ export const Introduction = {
   title: "Premium Accommodation Type",
   subtitle: "Located at Covillea @ Bukit Jalil",
   description:
-    "Experience premium student living with our DELUXE CONDO unit, with enhanced security and modern facilities. Each unit is fully furnished with essential amenities and modern conveniences.",
+    "Experience premium student living with our PREMIUM CONDO unit, with enhanced security and modern facilities. Each unit is fully furnished with essential amenities and modern conveniences.",
   point: [
     {
       icon: <BsStars className="inline text-yellow-300" />,
