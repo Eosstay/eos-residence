@@ -83,7 +83,7 @@ export default function NavBar({ isMenuOpenMobile, setIsMenuOpenMobile, isMobile
                     isActivePath("/covillea") ? "bg-blue-700 text-white" : ""
                   }`}
                 >
-                  Deluxe Room Type
+                  Premium Room Type
                 </Link>
                 <Link
                   href="/vista"
@@ -92,7 +92,7 @@ export default function NavBar({ isMenuOpenMobile, setIsMenuOpenMobile, isMobile
                     isActivePath("/vista") ? "bg-blue-700 text-white" : ""
                   }`}
                 >
-                  Superior Room Type
+                  Standard Room Type
                 </Link>
               </div>
             )}
@@ -118,13 +118,13 @@ export default function NavBar({ isMenuOpenMobile, setIsMenuOpenMobile, isMobile
               href="/covillea"
               className={isActivePath("/covillea") ? "text-primary-700" : ""}
             >
-              Deluxe Room Type
+              Premium Room Type
             </DropdownItem>
             <DropdownItem
               href="/vista"
               className={isActivePath("/vista") ? "text-primary-700" : ""}
             >
-              Superior Room Type
+              Standard Room Type
             </DropdownItem>
           </Dropdown>
         )}
