@@ -38,7 +38,7 @@ import { BsStars } from "react-icons/bs";
 import { MdNearMe } from "react-icons/md";
 
 export const Introduction = {
-  title: "Superior Accommodation Type",
+  title: "Standard Accommodation Type",
   subtitle: "Located at Vista Komanwel B",
   description:
     "Enjoy affordable student living at Vista Komanwel B, where essential comfort meets convenience in a prime location. Each unit comes fully furnished with basic amenities, ideal for students seeking a budget-friendly stay.",
