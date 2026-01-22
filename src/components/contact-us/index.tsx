@@ -23,7 +23,7 @@ export default function ContactUs() {
 
         <form
           className="space-y-4"
-          action="https://formsubmit.co/eosstay@gmail.com"
+          action="https://formsubmit.co/inquiry@eoshostel.com"
           method="POST"
         >
           {/* Prevent spam */}
